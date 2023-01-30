@@ -7,6 +7,7 @@ To run this code you have to create a new text file (.txt) with text data, this 
 Example:
 1,9,5,0,20,-4,12,16,7 12
 
+You will find a sample file test in the repo, it is called 'input.txt'
 Once you get ready with the file, you need to update the file URL in the code. To do that I recommend to use Visual Studio and open the project, after that you will find the file:
 MachEightTest/Program.cs
 
